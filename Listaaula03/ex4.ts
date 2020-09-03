@@ -1,0 +1,1 @@
+//Crie um script para que o usuário realize uma aposta.Deve ser solicitado ao usuário um número de 1 a 6. Após gerar aleatoriamente o número, verificar se o usuário acertou e informe-o na console.
